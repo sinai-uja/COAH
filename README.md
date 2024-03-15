@@ -32,7 +32,7 @@ Algunos datos lingüísticos del corpus son:
 | Número medio de adjetivos	| 0,083 |
 | Número medio de adverbios	| 0,069 |
 
-## Como citar
+## Cómo citar
 Molina-González, M. D., Martínez-Cámara, E., Martín-Valdivia, M. T., Ureña-López, L. A. (2014). Cross-domain sentiment analysis using spanish opinionated words. Natural Language Processing and Information Systems, Lecture Notes in Computer Science, vol. 8455, pp. 214-219. Springer International Publishing. DOI: [10.1007/978-3-319-07983-7_28](http://dx.doi.org/10.1007/978-3-319-07983-7_28)
 
 ```
